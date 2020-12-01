@@ -1,5 +1,5 @@
 {
-  "name": "ev",
+  "name": "npm-merge-demo-dev",
   "version": "1.0.0",
   "description": "开发核心依赖包",
   "dependencies": {
